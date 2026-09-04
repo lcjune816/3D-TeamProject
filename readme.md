@@ -5,7 +5,7 @@
 
 몬스터·보스 AI와 Behavior Tree 실행 구조 및 Node Editor를 담당했습니다.
 
-[▶ 시연 영상 보기](https://www.youtube.com/watch?v=AC3LXoQ4La8)
+[▶ 시연 영상 보기](https://www.youtube.com/watch?v=BMtaoZoTnjo&feature=youtu.be)
 
 ## 프로젝트 개요
 
