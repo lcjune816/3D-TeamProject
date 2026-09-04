@@ -1,4 +1,4 @@
-# Hogwarts Legacy Clone — Monster · Boss AI
+# Hogwarts Legacy — Monster · Boss AI
 
 > 자체 제작 DirectX 11 엔진을 이용해 《호그와트 레거시》를 모작한  
 > 3인칭 액션 RPG 7인 팀 프로젝트입니다.
@@ -11,7 +11,7 @@
 | --- | --- |
 | 장르 | 3인칭 액션 RPG |
 | 개발 인원 | 7명 |
-| 개발 기간 | 2026.06.30 ~ 2026.08.30 |
+| 개발 기간 | 2026.06.29 ~ 2026.08.31 |
 | 개발 환경 | Visual Studio 2022 |
 | 개발 언어/API | C++20 · DirectX 11 |
 | 외부 라이브러리 | ImGui · ImGui Node Editor · magic_enum · nlohmann/json |
