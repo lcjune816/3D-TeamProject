@@ -1,11 +1,11 @@
-# Hogwarts Legacy — Monster · Boss AI
+# Hogwarts Legacy Clone — Monster · Boss AI
 
 > 자체 제작 DirectX 11 엔진을 이용해 《호그와트 레거시》를 모작한  
 > 3인칭 액션 RPG 7인 팀 프로젝트입니다.
 
 몬스터·보스 AI와 Behavior Tree 실행 구조 및 Node Editor를 담당했습니다.
 
-[▶ 시연 영상 보기](https://www.youtube.com/watch?v=BMtaoZoTnjo&feature=youtu.be)
+[▶ 시연 영상 보기](https://www.youtube.com/watch?v=AC3LXoQ4La8)
 
 ## 프로젝트 개요
 
